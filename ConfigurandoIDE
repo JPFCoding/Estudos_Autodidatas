@@ -1,2 +1,3 @@
 ->Como saber a versão do Windows
   ->Windows + R-> escrever winver
+  ->Windos+Pause->sistema->tipo de sistema->ver se é 32 ou 64 bits
